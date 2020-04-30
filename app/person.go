@@ -1,4 +1,4 @@
-package first_lib
+package person
 
 import "fmt"
 
